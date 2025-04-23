@@ -1,3 +1,5 @@
+
+
 <?php
 // Array of quotes
 $quotes = [
